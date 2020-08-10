@@ -1,0 +1,2 @@
+hello, this is 3rd file and code is here
+ SET OtputRoot.SOAP.Body.ResponseResults.AddResponse = InputRoot.SOAP.Body.Add.x = InppuRoot.Soap.Body.Add.y:

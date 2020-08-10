@@ -1,0 +1,3 @@
+hello, this is first file
+in git repository 
+code is ciming soon 
